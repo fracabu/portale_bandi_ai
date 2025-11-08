@@ -2,7 +2,8 @@ import { GoogleGenAI, Type, Modality, LiveServerMessage } from '@google/genai';
 import type { Bando, GroundingChunk } from '../types';
 
 // Initialize the Google GenAI client
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY! });
+const apiKey = import.meta.env.VITE_GEMINI_API_KEY;
+const ai = apiKey ? new GoogleGenAI({ apiKey }) : null;
 
 const CACHE_KEY = 'portale_bandi_cache';
 const CACHE_TIMESTAMP_KEY = 'portale_bandi_cache_timestamp';
@@ -12,6 +13,10 @@ const CACHE_DURATION = 24 * 60 * 60 * 1000; // 24 ore in millisecondi
  * Fetches real grants data using Google Search and Gemini AI, with localStorage caching.
  */
 export async function fetchAndParseBandiData(): Promise<Bando[]> {
+  if (!ai) {
+    throw new Error('API Key non configurata. Configura VITE_GEMINI_API_KEY nelle variabili d\'ambiente.');
+  }
+
   // Check cache first
   const cachedData = getCachedBandi();
   if (cachedData) {
@@ -168,6 +173,10 @@ export function clearBandiCache(): void {
  * Uses Gemini with Google Search grounding to answer a user's query.
  */
 export async function generateWithGoogleSearch(query: string): Promise<{ text: string; sources: GroundingChunk[] }> {
+    if (!ai) {
+        throw new Error('API Key non configurata. Configura VITE_GEMINI_API_KEY nelle variabili d\'ambiente.');
+    }
+
     const model = 'gemini-2.5-flash';
 
     try {
@@ -284,6 +293,10 @@ class AudioQueue {
 }
 
 export async function startLiveSession(callbacks: LiveSessionCallbacks, bandi?: Bando[]): Promise<LiveSession> {
+    if (!ai) {
+        throw new Error('API Key non configurata. Configura VITE_GEMINI_API_KEY nelle variabili d\'ambiente.');
+    }
+
     let currentInputTranscription = '';
     let currentOutputTranscription = '';
     let audioStream: MediaStream | null = null;
