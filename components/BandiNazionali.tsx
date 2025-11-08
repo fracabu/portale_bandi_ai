@@ -54,8 +54,9 @@ const BandiNazionali: React.FC = () => {
   return (
     <div className="bg-slate-50 min-h-screen text-slate-800">
       <BandiNavbar />
-      {/* Header */}
-      <header className="bg-gradient-to-r from-indigo-600 to-purple-700 text-white py-8 shadow-lg">
+      <div className="pt-16">
+        {/* Header */}
+        <header className="bg-gradient-to-r from-indigo-600 to-purple-700 text-white py-8 shadow-lg">
         <div className="container mx-auto px-4">
           <h1 className="text-4xl font-bold mb-2">Bandi Nazionali</h1>
           <p className="text-indigo-100 text-lg">
@@ -193,6 +194,7 @@ const BandiNazionali: React.FC = () => {
           )}
         </div>
       </main>
+      </div>
     </div>
   );
 };

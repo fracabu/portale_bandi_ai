@@ -47,8 +47,9 @@ const BandiUE: React.FC = () => {
   return (
     <div className="bg-slate-50 min-h-screen text-slate-800">
       <BandiNavbar />
-      {/* Header */}
-      <header className="bg-gradient-to-r from-blue-600 to-cyan-600 text-white py-8 shadow-lg">
+      <div className="pt-16">
+        {/* Header */}
+        <header className="bg-gradient-to-r from-blue-600 to-cyan-600 text-white py-8 shadow-lg">
         <div className="container mx-auto px-4">
           <div className="flex items-center gap-3 mb-2">
             <svg xmlns="http://www.w3.org/2000/svg" className="h-10 w-10" fill="currentColor" viewBox="0 0 24 24">
@@ -182,6 +183,7 @@ const BandiUE: React.FC = () => {
           )}
         </div>
       </main>
+      </div>
     </div>
   );
 };
