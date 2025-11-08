@@ -52,6 +52,16 @@ const Header: React.FC<HeaderProps> = ({ onRefresh, isRefreshing }) => {
               Regionali
             </Link>
             <Link
+              to="/bandi-nazionali"
+              className="px-3 py-2 rounded-lg bg-purple-600 hover:bg-purple-700 text-white transition flex items-center gap-2 text-sm font-medium"
+              title="Bandi Nazionali"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 21v-4m0 0V5a2 2 0 012-2h6.5l1 1H21l-3 6 3 6h-8.5l-1-1H5a2 2 0 00-2 2zm9-13.5V9" />
+              </svg>
+              Nazionali
+            </Link>
+            <Link
               to="/database"
               className="px-3 py-2 rounded-lg bg-blue-600 hover:bg-blue-700 text-white transition flex items-center gap-2 text-sm font-medium"
               title="Visualizza database completo"

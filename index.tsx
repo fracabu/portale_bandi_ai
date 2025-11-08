@@ -4,6 +4,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import App from './App';
 import DatabaseView from './components/DatabaseView';
 import BandiRegionali from './components/BandiRegionali';
+import BandiNazionali from './components/BandiNazionali';
 import './index.css';
 
 const rootElement = document.getElementById('root');
@@ -19,6 +20,7 @@ root.render(
         <Route path="/" element={<App />} />
         <Route path="/database" element={<DatabaseView />} />
         <Route path="/bandi-regionali" element={<BandiRegionali />} />
+        <Route path="/bandi-nazionali" element={<BandiNazionali />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
