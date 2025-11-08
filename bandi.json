@@ -19,7 +19,7 @@
     "importoMassimo": 50000,
     "dataApertura": "2025-01-15",
     "dataScadenza": "2026-12-22",
-    "linkUfficiale": "https://bandi.regione.lombardia.it/competenze-innovazione",
+    "linkUfficiale": "https://bandi.regione.lombardia.it",
     "complessita": "Media"
   },
   {
@@ -41,7 +41,7 @@
     "importoMassimo": 90000,
     "dataApertura": "2024-11-01",
     "dataScadenza": "2025-04-28",
-    "linkUfficiale": "https://imprese.regione.emilia-romagna.it/transizione-digitale",
+    "linkUfficiale": "https://imprese.regione.emilia-romagna.it",
     "complessita": "Media"
   },
   {
@@ -63,7 +63,7 @@
     "importoMassimo": 1500000,
     "dataApertura": "2025-06-01",
     "dataScadenza": "2025-11-29",
-    "linkUfficiale": "https://www.filse.liguria.it/energie-rinnovabili",
+    "linkUfficiale": "https://www.filse.it",
     "complessita": "Alta"
   },
   {
@@ -85,7 +85,7 @@
     "importoMassimo": 200000,
     "dataApertura": "2024-12-01",
     "dataScadenza": "2025-06-16",
-    "linkUfficiale": "https://www.regionefvg.it/startup-innovative",
+    "linkUfficiale": "https://www.regione.fvg.it",
     "complessita": "Media"
   },
   {
@@ -107,7 +107,7 @@
     "importoMassimo": 5000000,
     "dataApertura": "2025-03-01",
     "dataScadenza": "2026-03-05",
-    "linkUfficiale": "https://www.lazioinnova.it/step-tecnologie-critiche",
+    "linkUfficiale": "https://www.lazioinnova.it",
     "complessita": "Alta"
   },
   {
@@ -129,7 +129,7 @@
     "importoMassimo": 350000,
     "dataApertura": "2025-01-10",
     "dataScadenza": "2025-12-31",
-    "linkUfficiale": "https://www.sistema.puglia.it/tecnonidi",
+    "linkUfficiale": "https://sistema.puglia.it",
     "complessita": "Media"
   },
   {
@@ -151,7 +151,7 @@
     "importoMassimo": 100000,
     "dataApertura": "2025-02-01",
     "dataScadenza": "2025-09-30",
-    "linkUfficiale": "https://portalebandi.regione.basilicata.it/imprese-costituende",
+    "linkUfficiale": "https://portalebandi.regione.basilicata.it",
     "complessita": "Media"
   },
   {
@@ -173,7 +173,7 @@
     "importoMassimo": 150000,
     "dataApertura": "2025-03-15",
     "dataScadenza": "2025-12-31",
-    "linkUfficiale": "https://www.calabriaeuropa.it/voucher-digitale",
+    "linkUfficiale": "https://calabriaeuropa.regione.calabria.it",
     "complessita": "Bassa"
   },
   {
@@ -195,7 +195,7 @@
     "importoMassimo": 3000000,
     "dataApertura": "2025-05-01",
     "dataScadenza": "2025-11-28",
-    "linkUfficiale": "https://www.bandisicilia.it/riprisa-sicilia-plus-rd",
+    "linkUfficiale": "https://www.euroinfosicilia.it",
     "complessita": "Alta"
   },
   {
@@ -217,7 +217,7 @@
     "importoMassimo": 1000000,
     "dataApertura": "2025-07-01",
     "dataScadenza": "2026-01-16",
-    "linkUfficiale": "https://www.sardegnaricerche.it/smart-grids-energia",
+    "linkUfficiale": "https://www.sardegnaricerche.it",
     "complessita": "Alta"
   },
   {
@@ -239,7 +239,7 @@
     "importoMassimo": 10000,
     "dataApertura": "2024-10-01",
     "dataScadenza": "2025-06-06",
-    "linkUfficiale": "https://bandi.regione.lombardia.it/voucher-digitali-40",
+    "linkUfficiale": "https://bandi.regione.lombardia.it",
     "complessita": "Bassa"
   },
   {
@@ -261,7 +261,7 @@
     "importoMassimo": 0,
     "dataApertura": "2025-01-01",
     "dataScadenza": "2025-12-31",
-    "linkUfficiale": "https://formazione.regione.lombardia.it/fse-continua",
+    "linkUfficiale": "https://www.regione.lombardia.it",
     "complessita": "Media"
   },
   {
@@ -283,7 +283,7 @@
     "importoMassimo": 500000,
     "dataApertura": "2024-11-15",
     "dataScadenza": "2025-07-31",
-    "linkUfficiale": "https://www.bandi.regione.piemonte.it/digitalizzazione-linea-a",
+    "linkUfficiale": "https://bandi.regione.piemonte.it",
     "complessita": "Media"
   },
   {
@@ -305,7 +305,7 @@
     "importoMassimo": 1000000,
     "dataApertura": "2024-12-01",
     "dataScadenza": "2025-08-07",
-    "linkUfficiale": "https://www.finpiemonte.it/dalla-ricerca-al-mercato",
+    "linkUfficiale": "https://www.finpiemonte.it",
     "complessita": "Alta"
   },
   {
@@ -327,7 +327,7 @@
     "importoMassimo": 0,
     "dataApertura": "2025-01-01",
     "dataScadenza": "2025-12-31",
-    "linkUfficiale": "https://www.regione.veneto.it/formazione-continua",
+    "linkUfficiale": "https://www.regione.veneto.it",
     "complessita": "Media"
   },
   {
@@ -349,7 +349,7 @@
     "importoMassimo": 500000,
     "dataApertura": "2025-02-01",
     "dataScadenza": "2025-09-30",
-    "linkUfficiale": "https://www.bandi.regione.veneto.it/idrogeno-verde",
+    "linkUfficiale": "https://bandi.regione.veneto.it",
     "complessita": "Alta"
   },
   {
@@ -371,7 +371,7 @@
     "importoMassimo": 1000000,
     "dataApertura": "2025-01-15",
     "dataScadenza": "2025-06-30",
-    "linkUfficiale": "https://www.regionefvg.it/rd-collaborativo-s4",
+    "linkUfficiale": "https://www.regione.fvg.it",
     "complessita": "Alta"
   },
   {
@@ -393,7 +393,7 @@
     "importoMassimo": 50000,
     "dataApertura": "2025-03-01",
     "dataScadenza": "2025-12-31",
-    "linkUfficiale": "https://www.sviluppo.toscana.it/impresa-digitale",
+    "linkUfficiale": "https://www.sviluppo.toscana.it",
     "complessita": "Bassa"
   },
   {
@@ -415,7 +415,7 @@
     "importoMassimo": 2000000,
     "dataApertura": "2025-03-01",
     "dataScadenza": "2026-03-05",
-    "linkUfficiale": "https://www.lazioinnova.it/investimenti-strategici-pmi",
+    "linkUfficiale": "https://www.lazioinnova.it",
     "complessita": "Media"
   },
   {
@@ -437,7 +437,7 @@
     "importoMassimo": 3000000,
     "dataApertura": "2025-01-01",
     "dataScadenza": "2025-12-31",
-    "linkUfficiale": "https://www.sistema.puglia.it/pia-piccole-imprese",
+    "linkUfficiale": "https://sistema.puglia.it",
     "complessita": "Media"
   },
   {
@@ -459,7 +459,7 @@
     "importoMassimo": 1500000,
     "dataApertura": "2025-01-01",
     "dataScadenza": "2025-12-31",
-    "linkUfficiale": "https://www.invitalia.it/smart-start-italia",
+    "linkUfficiale": "https://www.invitalia.it",
     "complessita": "Media"
   },
   {
@@ -481,7 +481,7 @@
     "importoMassimo": 4000000,
     "dataApertura": "2025-01-01",
     "dataScadenza": "2025-12-31",
-    "linkUfficiale": "https://www.mimit.gov.it/nuova-sabatini",
+    "linkUfficiale": "https://www.mimit.gov.it",
     "complessita": "Media"
   },
   {
@@ -503,7 +503,7 @@
     "importoMassimo": 5000000,
     "dataApertura": "2025-01-01",
     "dataScadenza": "2025-12-31",
-    "linkUfficiale": "https://www.mimit.gov.it/credito-imposta-r-s",
+    "linkUfficiale": "https://www.mimit.gov.it",
     "complessita": "Alta"
   },
   {
@@ -525,7 +525,7 @@
     "importoMassimo": 0,
     "dataApertura": "2025-01-01",
     "dataScadenza": "2025-12-31",
-    "linkUfficiale": "https://www.lavoro.gov.it/gol",
+    "linkUfficiale": "https://www.lavoro.gov.it",
     "complessita": "Bassa"
   },
   {
@@ -547,7 +547,7 @@
     "importoMassimo": 20000,
     "dataApertura": "2025-05-01",
     "dataScadenza": "2025-12-31",
-    "linkUfficiale": "https://www.invitalia.it/brevetti",
+    "linkUfficiale": "https://www.invitalia.it",
     "complessita": "Bassa"
   },
   {
@@ -569,7 +569,7 @@
     "importoMassimo": 200000,
     "dataApertura": "2025-01-01",
     "dataScadenza": "2025-12-31",
-    "linkUfficiale": "https://www.invitalia.it/resto-al-sud",
+    "linkUfficiale": "https://www.invitalia.it",
     "complessita": "Media"
   },
   {
@@ -591,7 +591,7 @@
     "importoMassimo": 20000000,
     "dataApertura": "2024-01-01",
     "dataScadenza": "2024-12-31",
-    "linkUfficiale": "https://www.mimit.gov.it/transizione-40",
+    "linkUfficiale": "https://www.mimit.gov.it",
     "complessita": "Alta"
   },
   {
@@ -613,7 +613,7 @@
     "importoMassimo": 0,
     "dataApertura": "2022-11-15",
     "dataScadenza": "2025-12-31",
-    "linkUfficiale": "https://prin.mur.gov.it",
+    "linkUfficiale": "https://www.mur.gov.it",
     "complessita": "Alta"
   },
   {
@@ -635,7 +635,7 @@
     "importoMassimo": 17500000,
     "dataApertura": "2025-01-01",
     "dataScadenza": "2025-10-01",
-    "linkUfficiale": "https://eic.ec.europa.eu/accelerator",
+    "linkUfficiale": "https://eic.ec.europa.eu",
     "complessita": "Alta"
   },
   {
@@ -657,7 +657,7 @@
     "importoMassimo": 400000000,
     "dataApertura": "2025-01-01",
     "dataScadenza": "2025-09-02",
-    "linkUfficiale": "https://digital-strategy.ec.europa.eu/it/library/artificial-intelligence",
+    "linkUfficiale": "https://digital-strategy.ec.europa.eu",
     "complessita": "Alta"
   },
   {
@@ -679,7 +679,7 @@
     "importoMassimo": 60000000,
     "dataApertura": "2025-01-01",
     "dataScadenza": "2025-06-11",
-    "linkUfficiale": "https://erasmus-plus.ec.europa.eu/cove",
+    "linkUfficiale": "https://erasmus-plus.ec.europa.eu",
     "complessita": "Alta"
   },
   {
@@ -701,7 +701,7 @@
     "importoMassimo": 7300000000,
     "dataApertura": "2025-01-01",
     "dataScadenza": "2025-10-02",
-    "linkUfficiale": "https://ec.europa.eu/info/horizon-europe",
+    "linkUfficiale": "https://ec.europa.eu/info/funding-tenders",
     "complessita": "Alta"
   },
   {
@@ -723,7 +723,7 @@
     "importoMassimo": 150000000,
     "dataApertura": "2025-01-01",
     "dataScadenza": "2025-09-23",
-    "linkUfficiale": "https://cinea.ec.europa.eu/life",
+    "linkUfficiale": "https://cinea.ec.europa.eu",
     "complessita": "Alta"
   },
   {
@@ -767,7 +767,7 @@
     "importoMassimo": 262000000,
     "dataApertura": "2025-01-01",
     "dataScadenza": "2025-10-29",
-    "linkUfficiale": "https://eic.ec.europa.eu/pathfinder",
+    "linkUfficiale": "https://eic.ec.europa.eu",
     "complessita": "Alta"
   },
   {
@@ -811,7 +811,7 @@
     "importoMassimo": 26700000,
     "dataApertura": "2025-01-01",
     "dataScadenza": "2025-12-31",
-    "linkUfficiale": "https://formazione.regione.lombardia.it/fse-plus",
+    "linkUfficiale": "https://www.regione.lombardia.it",
     "complessita": "Media"
   },
   {
@@ -833,7 +833,7 @@
     "importoMassimo": 50000000,
     "dataApertura": "2025-01-01",
     "dataScadenza": "2025-12-31",
-    "linkUfficiale": "https://www.fesr.regione.lombardia.it/trasferimento-tecnologico",
+    "linkUfficiale": "https://fesr.regione.emilia-romagna.it",
     "complessita": "Alta"
   },
   {
@@ -855,7 +855,7 @@
     "importoMassimo": 150000000,
     "dataApertura": "2025-05-01",
     "dataScadenza": "2025-12-31",
-    "linkUfficiale": "https://www.istruzione.it/pon/scuola-piano-estate",
+    "linkUfficiale": "https://ponmetro.it",
     "complessita": "Media"
   },
   {
@@ -877,7 +877,7 @@
     "importoMassimo": 15000000,
     "dataApertura": "2025-01-01",
     "dataScadenza": "2025-12-31",
-    "linkUfficiale": "https://www.cittametropolitana.torino.it/pon-metro-plus",
+    "linkUfficiale": "https://ponmetro.it",
     "complessita": "Media"
   },
   {
@@ -899,7 +899,7 @@
     "importoMassimo": 80000000,
     "dataApertura": "2025-01-01",
     "dataScadenza": "2026-12-31",
-    "linkUfficiale": "https://www.istruzione.sicilia.it/fse-plus-its",
+    "linkUfficiale": "https://www.regione.sicilia.it",
     "complessita": "Media"
   },
   {
@@ -921,7 +921,7 @@
     "importoMassimo": 20000000,
     "dataApertura": "2025-01-01",
     "dataScadenza": "2025-12-31",
-    "linkUfficiale": "https://www.fesr.regione.emilia-romagna.it/economia-circolare",
+    "linkUfficiale": "https://fesr.regione.emilia-romagna.it",
     "complessita": "Media"
   },
   {
@@ -943,7 +943,7 @@
     "importoMassimo": 12000000,
     "dataApertura": "2025-01-01",
     "dataScadenza": "2025-12-31",
-    "linkUfficiale": "https://www.silavoro.it/zeroneet",
+    "linkUfficiale": "https://www.regione.lombardia.it",
     "complessita": "Bassa"
   },
   {
@@ -965,7 +965,7 @@
     "importoMassimo": 5000000,
     "dataApertura": "2025-01-01",
     "dataScadenza": "2025-12-31",
-    "linkUfficiale": "https://www.lazioinnova.it/pre-seed-startup",
+    "linkUfficiale": "https://www.lazioinnova.it",
     "complessita": "Media"
   },
   {
@@ -987,7 +987,7 @@
     "importoMassimo": 10000,
     "dataApertura": "2024-09-01",
     "dataScadenza": "2024-10-31",
-    "linkUfficiale": "https://www.rm.camcom.it/voucher-doppia-transizione",
+    "linkUfficiale": "https://www.rm.camcom.it",
     "complessita": "Bassa"
   },
   {
@@ -1009,7 +1009,7 @@
     "importoMassimo": 0,
     "dataApertura": "2025-07-01",
     "dataScadenza": "2025-10-31",
-    "linkUfficiale": "https://www.fondimpresa.it/avviso-3-2025",
+    "linkUfficiale": "https://www.fondimpresa.it",
     "complessita": "Media"
   },
   {
@@ -1031,7 +1031,7 @@
     "importoMassimo": 200000,
     "dataApertura": "2025-01-01",
     "dataScadenza": "2025-12-31",
-    "linkUfficiale": "https://www.fondazionecariplo.it/giovani-ricercatori",
+    "linkUfficiale": "https://www.fondazionecariplo.it",
     "complessita": "Alta"
   },
   {
@@ -1053,7 +1053,7 @@
     "importoMassimo": 130000,
     "dataApertura": "2025-06-01",
     "dataScadenza": "2025-11-30",
-    "linkUfficiale": "https://www.inail.it/isi-2025",
+    "linkUfficiale": "https://www.inail.it",
     "complessita": "Media"        
   }
 ]
