@@ -3,6 +3,7 @@ import React, { useState, useMemo } from 'react';
 import bandiData from '../bandi.json';
 import { Bando } from '../types';
 import BandoCard from './BandoCard';
+import BandiNavbar from './BandiNavbar';
 
 const BandiRegionali: React.FC = () => {
   const [selectedRegione, setSelectedRegione] = useState<string>('');
@@ -45,6 +46,7 @@ const BandiRegionali: React.FC = () => {
 
   return (
     <div className="bg-slate-50 min-h-screen text-slate-800">
+      <BandiNavbar />
       {/* Header */}
       <header className="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-8 shadow-lg">
         <div className="container mx-auto px-4">
