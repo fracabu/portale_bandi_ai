@@ -1,0 +1,7 @@
+{
+  "name": "Portale Bandi AI",
+  "description": "Un portale digitale per la raccolta, organizzazione e consultazione di bandi di finanziamento, potenziato con ricerca AI e un assistente vocale in tempo reale.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
